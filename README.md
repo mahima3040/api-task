@@ -10,7 +10,7 @@ This Python script fetches a list of users from a public API and displays their 
 - Handles API errors gracefully
 
 ## How to Run
-1. Install the requests library:
+1. Install the requests library.
 2. Run the script:fetch_users.py
 
 ## API Used
