@@ -11,7 +11,7 @@ This Python script fetches a list of users from a public API and displays their 
 
 ## How to Run
 1. Install the requests library:
-2. Run the script:git init
+2. Run the script:fetch_users.py
 
 ## API Used
 https://jsonplaceholder.typicode.com/users
